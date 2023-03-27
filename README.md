@@ -1,12 +1,13 @@
 ### ABSTRACT
-     chat refers to the process of communicating,inteacting and/or exchanging messages over the 
-     internat.it involves twoor more individuals that communicate through a chat -enabled service or
-     software.chat may be delivered through text ,audio or video communication via the internet .
-     A server is a computer program or a device that provider functionality for other programes or
-     device chat who want to client with each other connect to the server.The chat application  we 
-     are going to make will bo more like a chat room rather than a peerto peer chat. so this means
-     that multipule users can connect to the chat server and their messages is broadcast to every
-     connected chat user. 
+     chat refers to the process of communicating,inteacting and/or exchanging 
+     messages over the internat.it involves twoor more individuals that communicate 
+     through a chat -enabled service or software.chat may be delivered through
+     text ,audio or video communication via the internet .A server is a computer 
+     program or a device that provider functionality for other programes ordevice 
+     chat who want to client with each other connect to the server.The chat application
+     we are going to make will bo more like a chat room rather than a peerto peer chat.
+     so this means that multipule users can connect to the chat server and their messages 
+     is broadcast to every connected chat user. 
 
 ### Software Requirement:
 
