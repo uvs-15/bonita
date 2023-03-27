@@ -17,12 +17,12 @@
 ### Frameworks:
 
            You can use web application frameworks to speed up the development process of your 
-chat application and website. Some popular web frameworks include Node.js, Django, Ruby on Rails, and Laravel.
+           chat application and website. Some popular web frameworks include Node.js, Django, Ruby on Rails, and Laravel.
 
 ### Real-time Communication:
 
            You'll need a real-time communication protocol for your chat application.
-WebSockets are a popular choice for real-time communication between the client and server.
+           WebSockets are a popular choice for real-time communication between the client and server.
 
 ### Database:
 
