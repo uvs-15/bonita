@@ -1,6 +1,6 @@
 ### ABSTRACT
-     chat refers to the process of communicating,inteacting and/or exchanging messages over the internat.
-it involves twoor more individuals that communicate through a chat -enabled service or software. chat may
+     chat refers to the process of communicating,inteacting and/or exchanging messages over the 
+internat.it involves twoor more individuals that communicate through a chat -enabled service or software. chat may
 be delivered through text ,audio or video communication via the internet . A server is a computer program or a device
 that provider functionality for other programes or device chat who want to client with each other connect to the server.
 The chat application  we are going to make will bo more like a chat room rather than a peerto peer chat. 
@@ -25,7 +25,7 @@ WebSockets are a popular choice for real-time communication between the client a
            You'll need a database to store user information, chat history, and other data. 
            Some popular choices include MySQL, PostgreSQL, MongoDB, and Redis.
 
-###User Interface:
+### User Interface:
            You'll need to design a user interface for your chat application and website. You can use tools like Bootstrap,
            Materialize, or Foundation to help with the design process. Additionally, you can use JavaScript libraries
            like React, Vue, or Angular for building interactive UI elements.
